@@ -1,0 +1,3 @@
+service : {
+  askAIMentor: (question: text) -> (text);
+}

@@ -1,0 +1,24 @@
+{
+  "overview": "DesignIQ is a premium AI-powered exam preparation platform for UCEED, NID, and NIFT design entrance exams. It features an interactive AI Mentor chat, personalized study tools, mock tests, analytics, and a sleek SaaS EdTech interface.",
+  "features": [
+    "AI Mentor Chat — ask any exam question and get live AI answers",
+    "Explore Exams — deep-dive pages for UCEED, NID, and NIFT",
+    "Free Trial — 7-day trial with full feature access",
+    "Explore Features — feature grid with AI Tools, Analytics, Practice, and Learning categories",
+    "Sign In — Internet Identity and phone OTP authentication",
+    "Premium glassmorphism UI with Deep Indigo, Electric Purple, and Soft Cyan palette"
+  ],
+  "category": "education",
+  "tags": [
+    "edtech",
+    "ai",
+    "exam-prep",
+    "design",
+    "uceed",
+    "nid",
+    "nift",
+    "chat",
+    "mentor"
+  ],
+  "last_updated": "2026-05-01T18:51:39.997Z"
+}
